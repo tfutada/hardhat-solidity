@@ -17,7 +17,7 @@ npm install
 
 スマート・コントラクトをコンパイルします。
 ```shell
-npx hardhat 
+npx hardhat compile
 ```
 
 
