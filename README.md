@@ -63,10 +63,7 @@ npx hardhat run scripts/simple.ts --network mumbai
 
 ## ファイル構成
 
-contracts スマートコントラクトのSolidityプログラム
-
-scripts デプロイ用のTSスクリプトとクライアントのTSスクリプト
-
-test 単体テストのTSスクリプト
-
-public dAppsのHTMLとJSコード
+- contracts スマートコントラクトのSolidityプログラム
+- scripts デプロイ用のTSスクリプトとクライアントのTSスクリプト
+- test 単体テストのTSスクリプト
+- public dAppsのHTMLとJSコード
