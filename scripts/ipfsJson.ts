@@ -23,5 +23,3 @@ async function main() {
 }
 
 main()
-
-// https://gateway.pinata.cloud/ipfs/QmQEyrZqExdcpzQbhfyiYFdqE168ZzCyH3ahP8Vyudo12h
