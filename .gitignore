@@ -1,0 +1,19 @@
+.idea
+.env
+.env.local
+
+node_modules
+
+# Hardhat files
+/cache
+/artifacts
+
+# TypeChain files
+/typechain
+/typechain-types
+
+# solidity-coverage files
+/coverage
+/coverage.json
+
+=*
